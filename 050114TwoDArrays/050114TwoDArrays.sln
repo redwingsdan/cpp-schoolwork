@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "050114TwoDArrays", "050114TwoDArrays\050114TwoDArrays.vcproj", "{960BDD25-05B3-4018-9860-1E6FAAAE754D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960BDD25-05B3-4018-9860-1E6FAAAE754D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{960BDD25-05B3-4018-9860-1E6FAAAE754D}.Debug|Win32.Build.0 = Debug|Win32
+		{960BDD25-05B3-4018-9860-1E6FAAAE754D}.Release|Win32.ActiveCfg = Release|Win32
+		{960BDD25-05B3-4018-9860-1E6FAAAE754D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Re-MakeHW2", "Re-MakeHW2\Re-MakeHW2.vcproj", "{F823540A-E4E3-4B5D-BCBA-1DD8B7CFB397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F823540A-E4E3-4B5D-BCBA-1DD8B7CFB397}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F823540A-E4E3-4B5D-BCBA-1DD8B7CFB397}.Debug|Win32.Build.0 = Debug|Win32
+		{F823540A-E4E3-4B5D-BCBA-1DD8B7CFB397}.Release|Win32.ActiveCfg = Release|Win32
+		{F823540A-E4E3-4B5D-BCBA-1DD8B7CFB397}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NestedForLoops", "NestedForLoops\NestedForLoops.vcproj", "{E2943D3B-972A-464B-B361-1040DDF5CF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2943D3B-972A-464B-B361-1040DDF5CF20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2943D3B-972A-464B-B361-1040DDF5CF20}.Debug|Win32.Build.0 = Debug|Win32
+		{E2943D3B-972A-464B-B361-1040DDF5CF20}.Release|Win32.ActiveCfg = Release|Win32
+		{E2943D3B-972A-464B-B361-1040DDF5CF20}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

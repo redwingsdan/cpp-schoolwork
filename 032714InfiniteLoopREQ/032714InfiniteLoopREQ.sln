@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032714InfiniteLoopREQ", "032714InfiniteLoopREQ\032714InfiniteLoopREQ.vcproj", "{4517067E-5712-42DA-8F06-4FF125545A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4517067E-5712-42DA-8F06-4FF125545A55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4517067E-5712-42DA-8F06-4FF125545A55}.Debug|Win32.Build.0 = Debug|Win32
+		{4517067E-5712-42DA-8F06-4FF125545A55}.Release|Win32.ActiveCfg = Release|Win32
+		{4517067E-5712-42DA-8F06-4FF125545A55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

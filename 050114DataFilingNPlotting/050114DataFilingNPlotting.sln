@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "050114DataFilingNPlotting", "050114DataFilingNPlotting\050114DataFilingNPlotting.vcproj", "{7A92AC7F-3E4F-489A-8ED8-3B0C827C9C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A92AC7F-3E4F-489A-8ED8-3B0C827C9C69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A92AC7F-3E4F-489A-8ED8-3B0C827C9C69}.Debug|Win32.Build.0 = Debug|Win32
+		{7A92AC7F-3E4F-489A-8ED8-3B0C827C9C69}.Release|Win32.ActiveCfg = Release|Win32
+		{7A92AC7F-3E4F-489A-8ED8-3B0C827C9C69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

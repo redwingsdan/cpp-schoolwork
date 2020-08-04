@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "090914SwitchCharacters", "090914SwitchCharacters\090914SwitchCharacters.vcproj", "{B0F93C86-012C-4887-A36D-264B8309E0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F93C86-012C-4887-A36D-264B8309E0DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0F93C86-012C-4887-A36D-264B8309E0DB}.Debug|Win32.Build.0 = Debug|Win32
+		{B0F93C86-012C-4887-A36D-264B8309E0DB}.Release|Win32.ActiveCfg = Release|Win32
+		{B0F93C86-012C-4887-A36D-264B8309E0DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

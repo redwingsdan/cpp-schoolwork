@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++BMIClasses", "C++BMIClasses\C++BMIClasses.vcproj", "{618FFB56-FED3-4557-8655-D501AE98A8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618FFB56-FED3-4557-8655-D501AE98A8AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{618FFB56-FED3-4557-8655-D501AE98A8AC}.Debug|Win32.Build.0 = Debug|Win32
+		{618FFB56-FED3-4557-8655-D501AE98A8AC}.Release|Win32.ActiveCfg = Release|Win32
+		{618FFB56-FED3-4557-8655-D501AE98A8AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
